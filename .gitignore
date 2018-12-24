@@ -1,3 +1,6 @@
 
 revenu_file\.csv
-*\.json
+
+node_modules/
+
+package-lock\.json

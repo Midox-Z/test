@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midox-Z/test.git"
+  },
+  "keywords": [
+    "node",
+    "react"
+  ],
+  "author": "mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Midox-Z/test/issues"
+  },
+  "homepage": "https://github.com/Midox-Z/test#readme",
+  "dependencies": {
+    "chart.js": "^2.7.3"
+  }
+}
